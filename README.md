@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/HieuNguyenHuu/fpga_snakegame">
-    <img src="images/logo.png" alt="Logo" scale="0.6">
+    <img src="images/logo.png" alt="Logo" width: 50% height: auto>
   </a>
 
   <h3 align="center">Snake! FPGA Game</h3>
