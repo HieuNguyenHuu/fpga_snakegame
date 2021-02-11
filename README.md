@@ -14,10 +14,10 @@
     FPGA snake game with Verilog and FPGA board Altera DE2i-150 board with VGA monitor 
     <br />
     <!--<a href="https://github.com/github_username/repo_name">View Demo</a>-->
-	![](/demo/demo.gif)
   </p>
 </p>
 
+![](/demo/demo.gif)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
