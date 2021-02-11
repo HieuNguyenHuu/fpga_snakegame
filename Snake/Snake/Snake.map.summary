@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Wed May 08 10:58:01 2019
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : Snake
+Top-level Entity Name : Snake
+Family : Cyclone IV GX
+Total logic elements : 10,309
+    Total combinational functions : 10,271
+    Dedicated logic registers : 2,372
+Total registers : 2372
+Total pins : 32
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0
