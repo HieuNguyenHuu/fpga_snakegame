@@ -47,7 +47,7 @@
 
 From idea of snake game in 80 centery and ping pong game in same time, i using the FPGA board Altera DE2i-150 board and Verilog languade to making this project. All kind of aspect of project will be present in next section. In this project i create the mix between Ping Pong and Snake:
 
-[![pp][/images/pp.png]]()
+[![pp](/images/pp.png)]
 
 [![snakeold][/images/snakeold.png]]()
 
