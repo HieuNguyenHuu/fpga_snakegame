@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/HieuNguyenHuu/fpga_snakegame">
-    <img src="images/logo.png" alt="Logo" width="100" height="10">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Snake! FPGA Game</h3>
@@ -14,10 +14,10 @@
     FPGA snake game with Verilog and FPGA board Altera DE2i-150 board with VGA monitor 
     <br />
     <!--<a href="https://github.com/github_username/repo_name">View Demo</a>-->
+	![](/demo/demo.gif)
   </p>
 </p>
 
-![](/demo/demo.gif)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -47,13 +47,13 @@
 
 From idea of snake game in 80 centery and ping pong game in same time, i using the FPGA board Altera DE2i-150 board and Verilog languade to making this project. All kind of aspect of project will be present in next section. In this project i create the mix between Ping Pong and Snake:
 
-[![pp][images/pp.png]]()
+[![pp][/images/pp.png]]()
 
-[![snakeold][images/snakeold.png]]()
+[![snakeold][/images/snakeold.png]]()
 
 And the result is:
 
-[![snake][images/snake.png]]()
+[![snake][/images/snake.png]]()
 
 Controls a snake to eat items The longer, the harder to control When the head of a snake collides with its own body or the borders, you lose
 
@@ -68,7 +68,7 @@ Controls a snake to eat items The longer, the harder to control When the head of
 
 ## Design Diagram
 
-[![dd][dd.png]]()
+[![dd][/images/dd.png]]()
 
 From design of FPGA project, This is the top module which takes input from controller, clock and start button and is interconnected to all the other modules. This module implements the game logic and gives the output to the VGA monitor driving circuit.
 
@@ -95,7 +95,7 @@ A collision is detected by checking if the snake and another object are being dr
 ## Implemet
 
 * Struct 
-[![s][images/struct.png]]()
+[![s][/images/struct.png]]()
 
 * The snake algorithm
 
@@ -107,7 +107,7 @@ If direction = 4’b1000, turn right
 If direction = 4’b0001, turn down
 If direction = 4’b0100, turn up
 
-[![sa][images/sa.png]]()
+[![sa][/images/sa.png]]()
 
 * The ball algorithm
 
@@ -116,7 +116,7 @@ If movement = 1, ball move in SE direction
 If movement = 2, ball move in SW direction
 If movement = 3, ball move in NW direction 
 
-[![ba][images/ba.png]]()
+[![ba][/images/ba.png]]()
 
 * The appe algorithm
 
@@ -124,7 +124,7 @@ If snake eats apple, the new apple will be created at random position.
 If the start = LOW, the new apple will be created at random position
 If the start = HIGH, the new apple will be created at random position
 
-[![aa][images/aa.png]]()
+[![aa][/images/aa.png]]()
 
 * Collision algorithm
 
@@ -134,11 +134,11 @@ If snake head collide non-lethal then size of snake increase 1 and snake eat app
 If snake’s head or snake body collide lethal or ball then bad collision = HIGH
 If bad collision = HIGH, then Game over.
 
-[![ca][images/ca.png]]()
+[![ca][/images/ca.png]]()
 
 ## Evalution
 
-[![ev][images/ev.png]]()
+[![ev][/images/ev.png]]()
 
 
 ## Contact
