@@ -68,7 +68,7 @@ Controls a snake to eat items The longer, the harder to control When the head of
 
 ## Design Diagram
 
-[![dd](/images/dd.png)
+![dd](/images/dd.png)
 
 From design of FPGA project, This is the top module which takes input from controller, clock and start button and is interconnected to all the other modules. This module implements the game logic and gives the output to the VGA monitor driving circuit.
 
