@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/HieuNguyenHuu/fpga_snakegame">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="100" height="10">
   </a>
 
   <h3 align="center">Snake! FPGA Game</h3>
@@ -14,9 +14,10 @@
     FPGA snake game with Verilog and FPGA board Altera DE2i-150 board with VGA monitor 
     <br />
     <!--<a href="https://github.com/github_username/repo_name">View Demo</a>-->
-	![Gif Demo](demo/demo.gif)
   </p>
 </p>
+
+![](/demo/demo.gif)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
