@@ -23,22 +23,22 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li><a href="#About The Project">About The Project</a></li>
-    <li><a href="#Project Requirements">Project Requirements</a></li>
-    <li><a href="#Design Diagram">Design Diagram</a></li>
-    <li><a href="#Random Grid"> Random Grid</a></li>
-    <li><a href="#Collision">Collision</a></li>
-    <li><a href="#Implemet">Implemet</a>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#project-requirements">Project Requirements</a></li>
+    <li><a href="#design-diagram">Design Diagram</a></li>
+    <li><a href="#random-grid"> Random Grid</a></li>
+    <li><a href="#collision">Collision</a></li>
+    <li><a href="#implemet">Implemet</a>
 	<ul>
-        <li><a href="#Struct ">Struct</a></li>
-        <li><a href="#The snake algorithm">The snake algorithm</a></li>
-		<li><a href="#The ball algorithm">The ball algorithm</a></li>
-		<li><a href="#The appe algorithm">The appe algorithm</a></li>
-		<li><a href="#Collision algorithm">Collision algorithm</a></li>
+        <li><a href="#struct">Struct</a></li>
+        <li><a href="#the-snake-algorithm">The snake algorithm</a></li>
+		<li><a href="#the-ball-algorithm">The ball algorithm</a></li>
+		<li><a href="#the-appe-algorithm">The appe algorithm</a></li>
+		<li><a href="#collision-algorithm">Collision algorithm</a></li>
       </ul>
 	  </li>
-    <li><a href="#Evalution">Evalution</a></li>
-	<li><a href="#Contact">Contact</a></li>
+    <li><a href="#evalution">Evalution</a></li>
+	<li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
